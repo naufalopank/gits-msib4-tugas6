@@ -1,6 +1,6 @@
-Nama: Naufal Attaqiy Iskandar
+Nama : Naufal Attaqiy Iskandar
 
-Asal Perguruan Tinggi: Universitas Gunadarma
+Asal Perguruan Tinggi : Universitas Gunadarma
 
 Cara menjalankan aplikasi: 
 - Lakukan cloning
